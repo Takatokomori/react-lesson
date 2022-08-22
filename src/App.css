@@ -1,3 +1,25 @@
+.message{
+  font-size: 32px;
+}
+
+.is-red{
+  color: red;
+}
+.is-green{
+  color: rgb(69, 206, 69);
+}
+
+.box{
+  margin: 0 auto;
+  width: 200px;
+  background-color: rgb(246, 236, 142);
+  border-radius: 5%;
+}
+
+.box:hover{
+  cursor: pointer;
+}
+
 .App {
   text-align: center;
 }
